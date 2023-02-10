@@ -1,0 +1,14 @@
+/* NAVBAR SECTION */
+.navbar-wrap{
+  padding: 2rem 0 2rem;
+}
+.nav-item{
+  padding: 0.5rem;
+}
+.nav-link{
+  color: hsl(236, 13%, 42%);
+}
+
+.nav-link:hover{
+  color: hsl(5, 85%, 63%);
+}
